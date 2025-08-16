@@ -38,7 +38,7 @@ The goal is to derive **student satisfaction insights** using rating data and te
 - **Negative sentiments highlight issues with venue capacity and scheduling**.  
 
 ## 🙌 Contributors
-- **Your Name / Team Name**  
+- **VIGNESH**  
 
 ---
 🔗 *This project was developed as part of a college analytics initiative to improve event planning and student engagement.*
